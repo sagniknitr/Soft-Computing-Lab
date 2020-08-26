@@ -1,2 +1,2 @@
 # Soft-Computing-Lab
-Lab experiments on Nueral Networks for Undergraduate ECE Students , NIT Rourkela
+Lab experiments on Neural Networks for Undergraduate ECE Students , NIT Rourkela
